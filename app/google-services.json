@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "101996656894",
+    "firebase_url": "https://pdl-cse-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pdl-cse",
+    "storage_bucket": "pdl-cse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101996656894:android:4b07c7dc6ec39b81a8cdaf",
+        "android_client_info": {
+          "package_name": "com.example.automaticfishfeeder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101996656894-ue4sqi5061juc516pg0f746h808b25u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8hTJ58KzSzQ0kOHy4fswbltI8kYt-vuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101996656894-ue4sqi5061juc516pg0f746h808b25u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
